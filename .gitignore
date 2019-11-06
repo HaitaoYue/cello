@@ -239,3 +239,4 @@ screenshot
 .temp
 
 src/dashboard/dist
+src/dashboard/functions

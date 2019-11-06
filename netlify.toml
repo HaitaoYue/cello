@@ -1,6 +1,6 @@
 [build]
   functions = "src/dashboard/functions"
-  command = "cd src/dashboard && npm run functions:build && npm run build"
+  command = "cd src/dashboard && npm i && npm run functions:build && npm run build"
   publish = "src/dashboard/dist"
 
 [[redirects]]
